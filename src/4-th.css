@@ -1,0 +1,46 @@
+/* Fourth CONTENT */
+
+.FourthContent {
+    padding: 64px 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 128px;
+    
+  }
+  
+  .FourthContentText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 32px;
+  
+  }
+  
+  .upload-button {
+    padding: 16px 24px 16px 16px;
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 100px;
+    color: white;
+    background-color: #712FFF;
+    width: 114px;
+    height: 50px;
+    border: none;
+  }
+  
+  .FourthContentText h1 {
+    font-family: Kanit;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 56px;
+  }
+  
+  .FourthContentText p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+  }
